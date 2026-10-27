@@ -42,5 +42,5 @@ Open http://localhost:5173
 | POST | /api/feedback | Student |
 | GET | /api/feedback | Faculty/Admin |
 
-## Author
+## Author b
 1DS25MC039, Department of MCA, DSCE
